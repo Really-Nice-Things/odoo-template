@@ -1,8 +1,8 @@
 ===========================
-OpenERP 8 - Docker template
+Odoo 12 - Docker template
 ===========================
 
-OpenERP 8 template to deploy with Docker + Nginx.
+Odoo 12 template to deploy with Docker + Nginx.
 
 Usage
 =====
