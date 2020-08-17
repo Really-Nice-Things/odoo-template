@@ -1,86 +1,6 @@
-[submodule "addons/OCA/reporting-engine"]
-	path = addons/OCA/reporting-engine
-	url = https://github.com/OCA/reporting-engine.git
-	branch = 8.0
-[submodule "addons/OCA/stock-logistics-warehouse"]
-	path = addons/OCA/stock-logistics-warehouse
-	url = https://github.com/OCA/stock-logistics-warehouse.git
-	branch = 8.0
-[submodule "addons/OCA/purchase-workflow"]
-	path = addons/OCA/purchase-workflow
-	url = https://github.com/OCA/purchase-workflow.git
-	branch = 8.0
-[submodule "addons/OCA/server-tools"]
-	path = addons/OCA/server-tools
-	url = https://github.com/OCA/server-tools.git
-	branch = 8.0
-[submodule "addons/OCA/sale-workflow"]
-	path = addons/OCA/sale-workflow
-	url = https://github.com/OCA/sale-workflow.git
-	branch = 8.0
-[submodule "addons/OCA/connector"]
-	path = addons/OCA/connector
-	url = https://github.com/OCA/connector.git
-	branch = 8.0
-[submodule "addons/OCA/timesheet"]
-	path = addons/OCA/timesheet
-	url = https://github.com/OCA/timesheet.git
-	branch = 8.0
-[submodule "addons/OCA/bank-statement-import"]
-	path = addons/OCA/bank-statement-import
-	url = https://github.com/OCA/bank-statement-import.git
-	branch = 8.0
-[submodule "addons/OCA/account-invoicing"]
-	path = addons/OCA/account-invoicing
-	url = https://github.com/OCA/account-invoicing.git
-	branch = 8.0
-[submodule "addons/OCA/social"]
-	path = addons/OCA/social
-	url = https://github.com/OCA/social.git
-	branch = 8.0
-[submodule "addons/OCA/account-payment"]
-	path = addons/OCA/account-payment
-	url = https://github.com/OCA/account-payment.git
-	branch = 8.0
-[submodule "addons/OCA/multi-company"]
-	path = addons/OCA/multi-company
-	url = https://github.com/OCA/multi-company.git
-	branch = 8.0
-[submodule "addons/OCA/stock-logistics-workflow"]
-	path = addons/OCA/stock-logistics-workflow
-	url = https://github.com/OCA/stock-logistics-workflow.git
-	branch = 8.0
-[submodule "addons/OCA/hr"]
-	path = addons/OCA/hr
-	url = https://github.com/OCA/hr.git
-	branch = 8.0
-[submodule "addons/OCA/account-reconcile"]
-	path = addons/OCA/account-reconcile
-	url = https://github.com/OCA/account-reconcile.git
-	branch = 8.0
-[submodule "addons/OCA/web"]
-	path = addons/OCA/web
-	url = https://github.com/OCA/web.git
-	branch = 8.0
-[submodule "addons/OCA/account-financial-tools"]
-	path = addons/OCA/account-financial-tools
-	url = https://github.com/OCA/account-financial-tools.git
-	branch = 8.0
-[submodule "addons/OCA/product-attribute"]
-	path = addons/OCA/product-attribute
-	url = https://github.com/OCA/product-attribute.git
-	branch = 8.0
-[submodule "addons/OCA/queue"]
-	path = addons/OCA/queue
-	url = https://github.com/OCA/queue.git
-	branch = 8.0
-[submodule "addons/OCA/commission"]
-	path = addons/OCA/commission
-	url = https://github.com/OCA/commission.git
-	branch = 8.0
-[submodule "addons/OCA/project"]
-	path = addons/OCA/project
-	url = https://github.com/OCA/project.git
+[submodule "addons/OCA/account-analytic"]
+	path = addons/OCA/account-analytic
+	url = https://github.com/OCA/account-analytic.git
 	branch = 8.0
 [submodule "addons/OCA/account-closing"]
 	path = addons/OCA/account-closing
@@ -90,63 +10,147 @@
 	path = addons/OCA/account-financial-reporting
 	url = https://github.com/OCA/account-financial-reporting.git
 	branch = 8.0
-[submodule "addons/OCA/stock-logistics-reporting"]
-	path = addons/OCA/stock-logistics-reporting
-	url = https://github.com/OCA/stock-logistics-reporting.git
-	branch = 8.0
-[submodule "addons/OCA/sale-reporting"]
-	path = addons/OCA/sale-reporting
-	url = https://github.com/OCA/sale-reporting.git
-	branch = 8.0
-[submodule "addons/OCA/crm"]
-	path = addons/OCA/crm
-	url = https://github.com/OCA/crm.git
-	branch = 8.0
-[submodule "addons/OCA/account-analytic"]
-	path = addons/OCA/account-analytic
-	url = https://github.com/OCA/account-analytic.git
-	branch = 8.0
-[submodule "addons/OCA/partner-contact"]
-	path = addons/OCA/partner-contact
-	url = https://github.com/OCA/partner-contact.git
-	branch = 8.0
-[submodule "addons/OCA/manufacture"]
-	path = addons/OCA/manufacture
-	url = https://github.com/OCA/manufacture.git
-	branch = 8.0
-[submodule "addons/OCA/event"]
-	path = addons/OCA/event
-	url = https://github.com/OCA/event.git
-	branch = 8.0
-[submodule "addons/OCA/l10n-spain"]
-	path = addons/OCA/l10n-spain
-	url = https://github.com/OCA/l10n-spain.git
-	branch = 8.0
-[submodule "addons/OCA/product-variant"]
-	path = addons/OCA/product-variant
-	url = https://github.com/OCA/product-variant.git
-	branch = 8.0
-[submodule "addons/OCA/bank-payment"]
-	path = addons/OCA/bank-payment
-	url = https://github.com/OCA/bank-payment.git
-	branch = 8.0
-[submodule "addons/OCA/mis-builder"]
-	path = addons/OCA/mis-builder
-	url = https://github.com/OCA/mis-builder.git
-	branch = 8.0
-[submodule "addons/OCA/community-data-files"]
-	path = addons/OCA/community-data-files
-	url = https://github.com/OCA/community-data-files.git
+[submodule "addons/OCA/account-financial-tools"]
+	path = addons/OCA/account-financial-tools
+	url = https://github.com/OCA/account-financial-tools.git
 	branch = 8.0
 [submodule "addons/OCA/account-invoice-reporting"]
 	path = addons/OCA/account-invoice-reporting
 	url = https://github.com/OCA/account-invoice-reporting.git
 	branch = 8.0
-[submodule "addons/OCA/stock-logistics-barcode"]
-	path = addons/OCA/stock-logistics-barcode
-	url = https://github.com/OCA/stock-logistics-barcode.git
+[submodule "addons/OCA/account-invoicing"]
+	path = addons/OCA/account-invoicing
+	url = https://github.com/OCA/account-invoicing.git
+	branch = 8.0
+[submodule "addons/OCA/account-payment"]
+	path = addons/OCA/account-payment
+	url = https://github.com/OCA/account-payment.git
+	branch = 8.0
+[submodule "addons/OCA/account-reconcile"]
+	path = addons/OCA/account-reconcile
+	url = https://github.com/OCA/account-reconcile.git
+	branch = 8.0
+[submodule "addons/OCA/bank-payment"]
+	path = addons/OCA/bank-payment
+	url = https://github.com/OCA/bank-payment.git
+	branch = 8.0
+[submodule "addons/OCA/bank-statement-import"]
+	path = addons/OCA/bank-statement-import
+	url = https://github.com/OCA/bank-statement-import.git
+	branch = 8.0
+[submodule "addons/OCA/commission"]
+	path = addons/OCA/commission
+	url = https://github.com/OCA/commission.git
+	branch = 8.0
+[submodule "addons/OCA/community-data-files"]
+	path = addons/OCA/community-data-files
+	url = https://github.com/OCA/community-data-files.git
+	branch = 8.0
+[submodule "addons/OCA/connector"]
+	path = addons/OCA/connector
+	url = https://github.com/OCA/connector.git
+	branch = 8.0
+[submodule "addons/OCA/crm"]
+	path = addons/OCA/crm
+	url = https://github.com/OCA/crm.git
+	branch = 8.0
+[submodule "addons/OCA/event"]
+	path = addons/OCA/event
+	url = https://github.com/OCA/event.git
+	branch = 8.0
+[submodule "addons/OCA/hr"]
+	path = addons/OCA/hr
+	url = https://github.com/OCA/hr.git
+	branch = 8.0
+[submodule "addons/OCA/knowledge"]
+	path = addons/OCA/knowledge
+	url = https://github.com/OCA/knowledge.git
+	branch = 8.0
+[submodule "addons/OCA/l10n-spain"]
+	path = addons/OCA/l10n-spain
+	url = https://github.com/OCA/l10n-spain.git
+	branch = 8.0
+[submodule "addons/OCA/management-system"]
+	path = addons/OCA/management-system
+	url = https://github.com/OCA/management-system.git
+	branch = 8.0
+[submodule "addons/OCA/manufacture"]
+	path = addons/OCA/manufacture
+	url = https://github.com/OCA/manufacture.git
+	branch = 8.0
+[submodule "addons/OCA/mis-builder"]
+	path = addons/OCA/mis-builder
+	url = https://github.com/OCA/mis-builder.git
+	branch = 8.0
+[submodule "addons/OCA/multi-company"]
+	path = addons/OCA/multi-company
+	url = https://github.com/OCA/multi-company.git
+	branch = 8.0
+[submodule "addons/OCA/partner-contact"]
+	path = addons/OCA/partner-contact
+	url = https://github.com/OCA/partner-contact.git
 	branch = 8.0
 [submodule "addons/OCA/pos"]
 	path = addons/OCA/pos
 	url = https://github.com/OCA/pos.git
+	branch = 8.0
+[submodule "addons/OCA/product-attribute"]
+	path = addons/OCA/product-attribute
+	url = https://github.com/OCA/product-attribute.git
+	branch = 8.0
+[submodule "addons/OCA/product-variant"]
+	path = addons/OCA/product-variant
+	url = https://github.com/OCA/product-variant.git
+	branch = 8.0
+[submodule "addons/OCA/project"]
+	path = addons/OCA/project
+	url = https://github.com/OCA/project.git
+	branch = 8.0
+[submodule "addons/OCA/purchase-workflow"]
+	path = addons/OCA/purchase-workflow
+	url = https://github.com/OCA/purchase-workflow.git
+	branch = 8.0
+[submodule "addons/OCA/reporting-engine"]
+	path = addons/OCA/reporting-engine
+	url = https://github.com/OCA/reporting-engine.git
+	branch = 8.0
+[submodule "addons/OCA/sale-reporting"]
+	path = addons/OCA/sale-reporting
+	url = https://github.com/OCA/sale-reporting.git
+	branch = 8.0
+[submodule "addons/OCA/sale-workflow"]
+	path = addons/OCA/sale-workflow
+	url = https://github.com/OCA/sale-workflow.git
+	branch = 8.0
+[submodule "addons/OCA/server-tools"]
+	path = addons/OCA/server-tools
+	url = https://github.com/OCA/server-tools.git
+	branch = 8.0
+[submodule "addons/OCA/social"]
+	path = addons/OCA/social
+	url = https://github.com/OCA/social.git
+	branch = 8.0
+[submodule "addons/OCA/stock-logistics-barcode"]
+	path = addons/OCA/stock-logistics-barcode
+	url = https://github.com/OCA/stock-logistics-barcode.git
+	branch = 8.0
+[submodule "addons/OCA/stock-logistics-reporting"]
+	path = addons/OCA/stock-logistics-reporting
+	url = https://github.com/OCA/stock-logistics-reporting.git
+	branch = 8.0
+[submodule "addons/OCA/stock-logistics-warehouse"]
+	path = addons/OCA/stock-logistics-warehouse
+	url = https://github.com/OCA/stock-logistics-warehouse.git
+	branch = 8.0
+[submodule "addons/OCA/stock-logistics-workflow"]
+	path = addons/OCA/stock-logistics-workflow
+	url = https://github.com/OCA/stock-logistics-workflow.git
+	branch = 8.0
+[submodule "addons/OCA/timesheet"]
+	path = addons/OCA/timesheet
+	url = https://github.com/OCA/timesheet.git
+	branch = 8.0
+[submodule "addons/OCA/web"]
+	path = addons/OCA/web
+	url = https://github.com/OCA/web.git
 	branch = 8.0
