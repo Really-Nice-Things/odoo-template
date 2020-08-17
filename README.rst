@@ -10,7 +10,7 @@ Installation
 To install OCA submodules:
 
 #. Go where this repository is clone.
-#. Execute the following command: ``git submodule init``.
+#. Execute the following command: ``git submodule init``
 #. To update all OCA modules to last version: ``git submodule update``
 
 Credits
