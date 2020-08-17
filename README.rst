@@ -1,13 +1,17 @@
-===========================
+=========================
 Odoo 12 - Docker template
-===========================
+=========================
 
 Odoo 12 template to deploy with Docker + Nginx.
 
-Usage
-=====
+Installation
+============
 
-To install OCA submodules copy and paste OCA-submodule.txt in the same directory that you was clone this template.
+To install OCA submodules:
+
+#. Go where this repository is clone.
+#. Execute the following command: ``git submodule init``
+#. To update all OCA modules to last version: ``git submodule update``
 
 Credits
 =======
