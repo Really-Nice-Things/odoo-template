@@ -2,7 +2,7 @@
 OpenERP 8 - Docker template
 ===========================
 
-OpenERP 8 template to deploy with Docker + Nginx.
+OpenERP 8 template to deploy with Docker.
 
 Installation
 ============
